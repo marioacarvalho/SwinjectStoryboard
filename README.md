@@ -39,8 +39,8 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0' # or platform :osx, '10.10' if your target is OS X.
 use_frameworks!
 
-pod 'Swinject', '2.0.0'
-pod 'SwinjectStoryboard', '1.0.0'
+pod 'Swinject', '2.1.0'
+pod 'SwinjectStoryboard', '1.1.1'
 ```
 
 Then run `pod install` command. For details of the installation and usage of CocoaPods, visit [its official website](https://cocoapods.org).
